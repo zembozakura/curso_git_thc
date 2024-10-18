@@ -1,12 +1,17 @@
 name = input("Ingrese su nombre")
 print("Su nombre es "+name)
 
-#Carlos hizo esto
+
 lastname = input("Ingrese su apellido")
 print("Su apellido es "+lastname)
 
-#The Harry Code hizo esto
+
 direccion = input("Ingrese su direccion")
 print("Su Direccion es "+direccion)
 
-#Debería continuar con el curso de Pyhton?
+num = input("Ingrese su numEro dE tElEfono")
+print("Su numERo Es"+num)
+
+documEnto= input("ingrEsE su numEro dE documEnto")
+print("su documento Es"+documEnto)
+
